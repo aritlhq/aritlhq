@@ -34,3 +34,10 @@ Full-stack Developer, Graphic Designer, and Computer Science student with over 2
   <img src="https://api.iconify.design/simple-icons:openzeppelin.svg?color=%23ffffff" title="OpenZeppelin" alt="OpenZeppelin" width="35" height="35"/> &nbsp;
   <code>and more ...</code> &nbsp;
 </div>
+
+## Summary 
+![ps](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aritlhq&theme=default)
+
+![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aritlhq&theme=default&utcOffset=8)
+
+![sum](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritlhq&theme=default)
