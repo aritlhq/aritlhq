@@ -31,6 +31,6 @@ Full-stack Developer, Graphic Designer, and Computer Science student with over 2
   <img src="https://api.iconify.design/vscode-icons:file-type-graphql.svg?color=%23ffffff" title="GraphQL" alt="GraphQL" width="40" height="40"/> &nbsp;
   <img src="https://api.iconify.design/vscode-icons:file-type-jest.svg?color=%23ffffff" title="Jest" alt="Jest" width="40" height="40"/> &nbsp;
   <img src="https://joi.dev/_nuxt/img/joiTransparent.c5fc726.png" title="Joi" alt="Joi" width="40" height="40"/> &nbsp;
-  <img src="https://api.iconify.design/simple-icons:openzeppelin.svg?color=%23ffffff" title="OpenZeppelin" alt="OpenZeppelin" width="40" height="40"/> &nbsp;
+  <img src="https://api.iconify.design/simple-icons:openzeppelin.svg?color=%23ffffff" title="OpenZeppelin" alt="OpenZeppelin" width="35" height="35"/> &nbsp;
   <code>and more ...</code> &nbsp;
 </div>
