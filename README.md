@@ -36,8 +36,4 @@ Full-stack Developer, Graphic Designer, and Computer Science student with over 2
 </div>
 
 ## Summary 
-![ps](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aritlhq&theme=default)
-
-![commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aritlhq&theme=default&utcOffset=8)
-
-![sum](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritlhq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritlhq&theme=codeSTACKr))
