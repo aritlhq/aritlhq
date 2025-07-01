@@ -36,4 +36,4 @@ Full-stack Developer, Graphic Designer, and Computer Science student with over 2
 </div>
 
 ## Summary 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritlhq&theme=codeSTACKr))
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritlhq&theme=codeSTACKr)
