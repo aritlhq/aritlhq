@@ -4,11 +4,12 @@ Hello, my name is `Muhammad Faqih Alharits`
 
 Full-stack Developer, Graphic Designer, and Computer Science student with over 2 years of experience in web development. I enjoy building real-world solutions and contributing to the tech community. I’m also passionate about exploring technologies in the Web3 ecosystem.
 
-## IDEs
+## Code Editor & IDEs
 <div>  
   <img src="https://api.iconify.design/logos:intellij-idea.svg?color=%23ffffff" title="Intellij" alt="Intellij" width="40" height="40"/> &nbsp;
   <img src="https://api.iconify.design/logos:datagrip.svg?color=%23ffffff" title="DataGrip" alt="DataGrip" width="40" height="40"/> &nbsp;
   <img src="https://api.iconify.design/devicon:webstorm.svg?color=%23ffffff" title="WebStorm" alt="WebStorm" width="40" height="40"/> &nbsp;
+  <img src="https://api.iconify.design/devicon:vscode.svg?color=%23ffffff" title="WebStorm" alt="WebStorm" width="40" height="40"/> &nbsp;
 </div>
 
 ## Language
