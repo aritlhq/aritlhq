@@ -14,6 +14,7 @@ Full-stack Developer, Graphic Designer, and Computer Science student with over 2
 ## Language
 <div>  
   <img src="https://api.iconify.design/logos:javascript.svg?color=%23ffffff" title="JavaScript" alt="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://api.iconify.design/devicon:typescript.svg?color=%23ffffff" title="TypeScript" alt="TypeScript" width="40" height="40"/> &nbsp;
   <img src="https://api.iconify.design/vscode-icons:file-type-solidity.svg?color=%23ffffff" title="Solidity" alt="Solidity" width="40" height="40"/> &nbsp;
 </div>
 
